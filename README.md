@@ -1,7 +1,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/QuangDev05/BlockSeedCracker)
 ![GitHub license](https://img.shields.io/github/license/QuangDev05/BlockSeedCracker)
-![Supported server version]([[https://img.shields.io/badge/Minecraft-1.20.1%20](https://img.shields.io/badge/Minecraft-1.20.1-green?style=flat&logoColor=gray&labelColor=gray)
-[![Discord](https://img.shields.io/Discord/1247029974154612828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/HsSUVGSc3c)
+![Supported server version](https://img.shields.io/badge/Minecraft-1.20.1-green?style=flat&logoColor=gray&labelColor=gray)
+[![Discord](https://img.shields.io/discord/1247029974154612828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/HsSUVGSc3c)
 # BlockSeedCracker
 ## Thông tin:
 - Plugin được làm riêng cho PlayST Network, tuy nhiên đây là plugin đơn giản nên vẫn là một mã nguồn mở cho các nhà phát triển có thể dựa vào và cải tiến nó.
