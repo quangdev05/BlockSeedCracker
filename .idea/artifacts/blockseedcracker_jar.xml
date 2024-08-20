@@ -3,8 +3,8 @@
     <output-path>$PROJECT_DIR$/out/artifacts/blockseedcracker_jar</output-path>
     <root id="archive" name="blockseedcracker.jar">
       <element id="module-output" name="blockseedcracker" />
-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/comphenix/protocol/ProtocolLib/4.8.0/ProtocolLib-4.8.0.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.12.8/byte-buddy-1.12.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/comphenix/protocol/ProtocolLib/4.8.0/ProtocolLib-4.8.0.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
